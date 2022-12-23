@@ -1,0 +1,2 @@
+filein1      DD   c:/mainframe/filein1.txt
+fileout1     DD   c:/mainframe/fileout1.txt
