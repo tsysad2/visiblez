@@ -1,0 +1,11 @@
+0d c0 
+a7 04 ff ff 
+a7 04 ff ff 
+a7 04 ff ff
+a7 f4 00 08
+47 40 c0 00
+47 20 c0 00
+47 f0 c0 00
+a7 f4 ff f1      
+c1 c2 c3 c4
+
